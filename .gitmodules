@@ -6,4 +6,4 @@
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/tree/release-v4.2
 [submodule "Vulnerability_Reproduction/lib/openzeppelin-contracts@v4.2.0"]
 	path = Vulnerability_Reproduction/lib/openzeppelin-contracts@v4.2.0
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v4.2
